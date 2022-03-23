@@ -83,6 +83,8 @@ button{
     line-height: 22px;
     
 }
+
+
 .link-signup{
     margin: 0 auto;
     display: block;
@@ -94,7 +96,6 @@ button{
     color: #8d8d8d;
     margin-bottom: 19px;
 }
-
 strong{
     color:#007aff
 }
